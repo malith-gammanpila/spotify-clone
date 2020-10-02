@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/pink"
+        android:drawable="@drawable/drawable_gradient_backgroung_purple_pink" />
+    <item
+        android:id="@+id/black"
+        android:drawable="@drawable/drawable_gradient_black" />
+</layer-list>
